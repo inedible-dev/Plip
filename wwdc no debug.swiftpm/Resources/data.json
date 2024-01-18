@@ -1,0 +1,57 @@
+[
+    {
+        "id": "brandenburg",
+        "name": "Brandenburg Gate",
+        "tag": "berlin brandenburg gate germany capital",
+        "latitude": 52.5163,
+        "longitude": 13.3777,
+        "cover": "brandenburg-1",
+        "images" : ["https://cdn.pixabay.com/photo/2020/05/01/15/18/brand-front-of-the-brandenburg-gate-5117579_1280.jpg", "https://cdn.pixabay.com/photo/2019/12/13/12/00/berlin-4692820_1280.jpg", "https://cdn.pixabay.com/photo/2014/08/14/11/07/brandenburg-gate-417890_1280.jpg"],
+        "description": "Modeled on the Acropolis in Athens and built for King Frederick William II in 1791, the monumental sandstone Brandenburg Gate in Berlin's Mitte district was the city's first Neoclassical structure. It measures an impressive 26 meters in height, which includes the Quadriga, the spectacular four-horse chariot carrying the goddess of victory perched atop this spectacular building. Its six huge columns on each side of the structure form five impressive passages: four were used by regular traffic, while the center was reserved for the royal carriages. Huge Doric columns also decorate the two buildings at each side of the Gate, once used by toll-collectors and guards. Undoubtedly Berlin's most iconic structure, it's hard to believe that the majestic structure you see today was severely damaged during WWII. It was also once part of the infamous Berlin Wall and, for a few decades, was symbolic of the division of Berlin into East and West.",
+        "fee": false
+    },
+    {
+        "id": "cologne",
+        "name": "Cologne Cathedral",
+        "tag": "cologne cathedral germany north rhine-westphalia",
+        "latitude": 50.9413,
+        "longitude": 6.9583,
+        "cover": "cologne-1",
+        "images" : ["https://cdn.pixabay.com/photo/2020/08/23/22/00/cologne-cathedral-5512117_1280.jpg", "https://cdn.pixabay.com/photo/2016/12/04/09/26/cologne-cathedral-1881284_1280.jpg", "https://cdn.pixabay.com/photo/2016/07/11/10/42/cologne-cathedral-1509412_1280.jpg"],
+        "description": "The towering Cologne Cathedral (Kölner Dom), the Cathedral of St. Peter and St. Mary, is located on the banks of the Rhine and is undoubtedly Cologne's most impressive landmark. This masterpiece of High Gothic architecture is one of the largest cathedrals in Europe. Construction on this most ambitious building project of the Middle Ages started in 1248 and reportedly took over 600 years to complete. As imposing as its façade, the cathedral's magnificent interior covers an area of 6,166 square meters and boasts 56 huge pillars. Above the high altar is the Reliquary of the Three Kings, a 12th-century work of art in gold that was designed by Nicholas of Verdun to house the relics of the Three Kings brought here from Milan. Other highlights include the panoramic views from the South Towers, the 12th- and 13th-century stained glass in the Three Kings Chapel, and the Treasury with its many precious objects, all of which survived largely intact after WWII. For some of the best vistas over the city and river, climb the 533 steps to the viewing platform in the South Tower. A small entrance fee is required.",
+        "fee": true
+    },
+    {
+        "id": "black-forest",
+        "name": "The Black Forest",
+        "tag": "the black forest baden-württemburg germany",
+        "latitude": 48.2775,
+        "longitude": 8.1860,
+        "cover": "black-forest-1",
+        "images" : ["https://upload.wikimedia.org/wikipedia/commons/6/66/Blick_vom_Hohfelsen.jpg"],
+        "description": "The beautiful Black Forest with its dark, densely-wooded hills is one of the most visited upland regions in all of Europe. Situated in the southwestern corner of Germany and extending 160 kilometers from Pforzheim in the north to Waldshut on the High Rhine in the south, it's a hiker's heaven. On the west side, the Black Forest descends steeply to the Rhine, crossed by lush valleys, while on the east, it slopes more gently down to the upper Neckar and Danube valleys. Popular spots include Germany's oldest ski area at Todtnau, the magnificent spa facilities of Baden-Baden, and the attractive resort of Bad Liebenzell. Other highlights include the spectacular Black Forest Railway. It's centered on Triberg with its famous falls, and Triberg itself, home to the Black Forest Open Air Museum. The best way to catch them all? Grab a map of the Black Forest Panoramic Route, a 70-kilometer driving tour that takes in the very best views over the region, along with its top historic attractions, including stunning castles and numerous medieval towns and villages.",
+        "fee": false
+    },
+    {
+        "id": "neuschwanstein",
+        "name": "Schloss Neuschwanstein",
+        "tag": "schloss neuschwanstein castle palace germany alps austria",
+        "latitude": 47.5576,
+        "longitude": 10.7498,
+        "cover": "neuschwanstein-1",
+        "images" : ["https://cdn.pixabay.com/photo/2017/08/07/10/05/neuschwanstein-2602208_1280.jpg", "https://cdn.pixabay.com/photo/2018/01/21/01/46/architecture-3095716_1280.jpg", "https://cdn.pixabay.com/photo/2015/10/30/16/25/germany-1014376_1280.jpg"],
+        "description": "The quaint old town of Füssen, situated between the Ammergau and Allgäu Alps and a popular alpine resort and winter sports center, is a good base from which to explore nearby Neuschwanstein Castle. This spectacular old fortress is widely recognized as one of Europe's most famous and picturesque royal castles. King Ludwig II of Bavaria built this many-towered and battlement-covered fantasy fortress, famous as the inspiration for Walt Disney's iconic theme park castles, from 1869-86. A variety of tour options are offered, including guided tours of the sumptuous interior taking in the Throne Room, the Singers' Hall – and some of the country's most spectacular views.",
+        "fee": true
+    },
+    {
+        "id": "reichstag",
+        "name": "Reichstag Building",
+        "tag": "reichstag building germany parliament government",
+        "images": ["https://cdn.pixabay.com/photo/2016/04/28/13/51/reichstag-1358937_1280.jpg","https://cdn.pixabay.com/photo/2017/04/04/21/30/reichstag-2203220_1280.jpg"],
+        "description": "The Neo-Renaissance building was designed by Paul Wallot and was completed in 1894. It was the home of the Reichstag (“Imperial Diet”) from 1894 to 1933, during the periods of the German Empire (1871–1918) and the Weimar Republic (1919–33). A fire at the Reichstag on February 27, 1933, one month after Adolf Hitler assumed the chancellorship, triggered events that led to Hitler’s assumption of dictatorial powers in Germany. The disused building sustained additional damage from Allied bombing during World War II, and neglect in postwar years led to further deterioration. By the 1970s it had undergone partial restoration and became a museum of German history. More extensive restoration and renovation took place, under the direction of British architect Sir Norman Foster, after the reunification of West and East Germany in 1990. The building’s huge glass dome, once its most recognizable feature, was rebuilt. An interior ramp spirals to the top of the dome, affording excellent views of the surrounding city. After the restoration was completed, the Reichstag became one of Berlin’s most prominent tourist attractions, drawing hundreds of thousands of visitors each year.",
+        "fee": false,
+        "latitude": 52.5186,
+        "longitude": 13.3762
+    }
+]
+ 
